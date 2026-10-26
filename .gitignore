@@ -1,0 +1,4 @@
+# CSV y registro que genera la extracción automática
+exportaciones/
+# Copias de seguridad de la base de datos (pueden contener datos privados)
+copias/
